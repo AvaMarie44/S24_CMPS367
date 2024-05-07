@@ -60,55 +60,7 @@ chosen and based on the operand, you will apply it to solve the problem
 
 
 
-ASSIGNMENT 2 
-#Problem 1  Convert variables into a struct 
-
-#Purpose of the app from assignment one for each problem I will have to group the variables
-
-#Execution 
-I used a struct called 'calculator' to group the variables but it's only slightly shown in the code 
-The main function does the same result it prompts the user to enter a problem to solve
-and calls 'evaluate expression' to calculate the result of the expression. The 'evaluateExpression' scans the input
-and forms the if statement. 
-
-#Problem 3 Convert variables into a struct 
-#Purpose of the app from assignment one for each problem I will have to group the variables
-#Execution  
-In this problem, the program allows users to input personal information and calculate their BMI.
-To put in the group variables there is a struct called 'BMIInfo' to group the variables related to BMI calculation like name, age, height
-calculated BMI, and BMI category. The main function still begins with a loop which allows the user 
-to calculate BMI and ends with the printed-out calculated information. The function of the calculator uses 'BMIInfo' struct 
-as input and calculates the height in inches by converting and BMI by using 'weight*703 / (height_total * Height_total). At the end it repeats the process
-by asking the user if they want to repeat and exits. 
 
 
-#Problem 4 Convert variables into a struct 
-
-#Purpose of the app from assignment one for each problem I will have to group the variables
-
-#Execution 
-In this program, it generates a multiplication table within a specified range and multiplication range. 
-The struct called 'MultiplicationTable' groups variables related to the ranges for the multiplication 
-table. The main function is the same it starts with a loop that allows the user to generate multiplication tables for ranges 
-Then the loop prompts the user to enter the starting range and the ending range for the table itself.
-Then the function creates another multiplication table continues the loop and asks if they want the code to create 
-another table. The program then repeats this process until the user decides to exit. 
-
-
-#Problem 5 Convert variables into a struct 
-
-#Purpose of the app from assignment one for each problem I will have to group the variables
-
-#Execution 
-In this code we are creating a calculator I first grouped the variables 'operand'. 'operand2'. and 'result
-into a struct called 'calculator,' I defined a struct at the beginning of the code I grouped the related variables in 'Calculator'. 
-By grouping related variables into a struct the code becomes more organic, easier to understand, and easier 
-to maintain. The main function still has all of the operations and if statements to different operations. As well 
-the case also puts all of the operations at the end it asks the user if they want to do another operation and ends the code. 
-
-#Execution 
-I put the program to ask the user to enter a problem. 
-Then operand1 and operand2 to which the numbers are performed. 
-Then I put in the functions with switch statements
 After putting in a loop to ask the user if they want to solve another problem. 
 
