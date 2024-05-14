@@ -1,0 +1,20 @@
+#midterm  Bank account management system 
+
+
+#purpose of the app 
+creating a simple bank account system using classes 
+it should include 
+1. create a new bank account with an initial balance 
+2. deposit money into an account 
+3. withdraw money from an account 
+4. display the current balance of an account 
+
+#execution 
+I included the libraries, <iostream>, <cstdlib>, <ctime>, <string> 
+Within the main BankAccount Class, which has three private variables: 'name', 'accountNumber', and 'balance' 
+As well 'deposit()' and 'withdraw()' allow depositing and withdrawing money from the account 
+I put in an array of BankAccounts where the bank accounts are stored 'numAccounts' is where the code keeps track of the number of accounts
+currently stored in the array 
+Within the display, the main menu gives the output and the options for banking operations 
+The void creatNewAccount has a cin for the user name and initial balance 
+Then  at the end of the code, it performs the if statements with the transaction and deposit/withdrew options. 
