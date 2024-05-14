@@ -34,7 +34,7 @@ another table. The program then repeats this process until the user decides to e
 
 #Problem 5 Convert variables into a struct 
 
-#Purpose of the app from assignment one for each problem I will have to group the variables
+#Purpose of the app from assignment one for each problem I will have to group the variables from the prior assignment 
 
 #Execution 
 In this code we are creating a calculator I first grouped the variables 'operand'. 'operand2'. and 'result
