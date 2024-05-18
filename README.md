@@ -1,4 +1,7 @@
-# Assignment 1 -  Problem 1 Calculator console app
+# All assignments READ ME 
+
+ASSIGNMENT 1 
+Problem 1 Calculator console app
 
 #Purpose of the app 
 The purpose of this app is a console application that solves arithmetic expressions put by the user. 
