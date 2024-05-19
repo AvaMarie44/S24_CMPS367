@@ -4,13 +4,14 @@
 #Purpose of the app 
 The program asks the user for course details and scores for students' code 
 displays all of the data needed.
+This code would be intended for teachers trying to calculate and order their student's grades. 
 
 #Execution 
 After the library, I put all of the needed functions for sorting and 
 calculating the number of users. 
 The main function gives the output for the user as well as the 'calculate average' which 
 one of the three statistics, 
-As well the input details for the user and using cin for how many points are possible
+As well as the input details for the user and using cin for how many points are possible
 I was given an array and if statement.
-As well its calculates the average the compute Average divides and sums up all of the scores
+It also calculates the average the compute Average divides and sums up all of the scores
 It is finding the minimum score and the maximum score. 
